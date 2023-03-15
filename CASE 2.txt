@@ -15,6 +15,7 @@ Adhwa Hilmiazhar - Programmer 6
 
 
 
+
 1
 
 
@@ -58,7 +59,7 @@ Perbanyaklah tadarus, jangan lupa shalawat
 مرحبًا يا شهر رمضان
 يا شهر الصيام
 مرحبًا يا شهر رمضان
-<<<<<<< HEAD
+
 يا شهر الصيام
 
 يا شهر الصيام
@@ -85,4 +86,5 @@ Perbanyaklah tadarus, jangan lupa shalawat
 
 
 يا شهر الصيام
+
 
