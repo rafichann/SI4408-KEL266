@@ -8,11 +8,16 @@ Saskiya Farannisa - Programmer 4
 Aisyah Wulan Aydila - Programmer 5
 Adhwa Hilmiazhar - Programmer 6
 
+
+
+1
+
 مرحبًا يا شهر رمضان
 يا شهر الصيام
 مرحبًا يا شهر رمضان
 يا شهر الصيام
 مرحبًا يا شهر رمضان
+
 يا شهر الصيام
 
 Selamat datang, Ramadan, bulan penuh ampunan
@@ -48,3 +53,6 @@ Perbanyaklah tadarus, jangan lupa shalawat
 يا شهر الصيام
 مرحبًا يا شهر رمضان
 يا شهر الصيام
+
+يا شهر الصيام
+
